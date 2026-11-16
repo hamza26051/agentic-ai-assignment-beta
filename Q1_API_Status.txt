@@ -1,0 +1,7 @@
+air: 10 successful calls
+weather: 10 successful calls
+heat_index: 20 successful calls
+knowledge_base: 20 successful calls
+Distinct days with successful API calls: 1
+OpenAQ calls containing both PM2.5 and PM10: 10
+Failed requests: 0
